@@ -127,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/lostParsley/dailyProblems/tree/master/1406-stone-game-iii) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/lostParsley/dailyProblems/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
