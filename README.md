@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/lostParsley/dailyProblems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/lostParsley/dailyProblems/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lostParsley/dailyProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2308-divide-array-into-equal-pairs](https://github.com/lostParsley/dailyProblems/tree/master/2308-divide-array-into-equal-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/lostParsley/dailyProblems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/lostParsley/dailyProblems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/lostParsley/dailyProblems/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/lostParsley/dailyProblems/tree/master/2308-divide-array-into-equal-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/lostParsley/dailyProblems/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/lostParsley/dailyProblems/tree/master/2308-divide-array-into-equal-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/lostParsley/dailyProblems/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
 |  |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/lostParsley/dailyProblems/tree/master/2308-divide-array-into-equal-pairs) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/lostParsley/dailyProblems/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Dynamic Programming
 |  |
