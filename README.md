@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lostParsley/dailyProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lostParsley/dailyProblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/lostParsley/dailyProblems/tree/master/3312-sorted-gcd-pair-queries) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/lostParsley/dailyProblems/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/lostParsley/dailyProblems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/lostParsley/dailyProblems/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/lostParsley/dailyProblems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lostParsley/dailyProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/lostParsley/dailyProblems/tree/master/3312-sorted-gcd-pair-queries) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/lostParsley/dailyProblems/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/lostParsley/dailyProblems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lostParsley/dailyProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lostParsley/dailyProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/lostParsley/dailyProblems/tree/master/2308-divide-array-into-equal-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/lostParsley/dailyProblems/tree/master/3312-sorted-gcd-pair-queries) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/lostParsley/dailyProblems/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/lostParsley/dailyProblems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/lostParsley/dailyProblems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lostParsley/dailyProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -65,11 +68,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/lostParsley/dailyProblems/tree/master/3312-sorted-gcd-pair-queries) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/lostParsley/dailyProblems/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/lostParsley/dailyProblems/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Combinatorics
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/lostParsley/dailyProblems/tree/master/3312-sorted-gcd-pair-queries) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/lostParsley/dailyProblems/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 ## Counting
 |  |
 | ------- |
@@ -112,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/lostParsley/dailyProblems/tree/master/2308-divide-array-into-equal-pairs) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/lostParsley/dailyProblems/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/lostParsley/dailyProblems/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Dynamic Programming
 |  |
