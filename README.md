@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/lostParsley/dailyProblems/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/lostParsley/dailyProblems/tree/master/1683-invalid-tweets) |
 | [1934-confirmation-rate](https://github.com/lostParsley/dailyProblems/tree/master/1934-confirmation-rate) |
+| [2057-count-salary-categories](https://github.com/lostParsley/dailyProblems/tree/master/2057-count-salary-categories) |
 ## Depth-First Search
 |  |
 | ------- |
