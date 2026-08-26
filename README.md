@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/lostParsley/dailyProblems/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/lostParsley/dailyProblems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lostParsley/dailyProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/lostParsley/dailyProblems/tree/master/0877-stone-game) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/lostParsley/dailyProblems/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/lostParsley/dailyProblems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/lostParsley/dailyProblems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/lostParsley/dailyProblems/tree/master/1140-stone-game-ii) |
@@ -197,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/lostParsley/dailyProblems/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/lostParsley/dailyProblems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
