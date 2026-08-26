@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lostParsley/dailyProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lostParsley/dailyProblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/lostParsley/dailyProblems/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/lostParsley/dailyProblems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/lostParsley/dailyProblems/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Stack
@@ -192,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/lostParsley/dailyProblems/tree/master/3310-remove-methods-from-project) |
+## Sliding Window
+|  |
+| ------- |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/lostParsley/dailyProblems/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
