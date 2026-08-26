@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/lostParsley/dailyProblems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lostParsley/dailyProblems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0747-min-cost-climbing-stairs](https://github.com/lostParsley/dailyProblems/tree/master/0747-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/lostParsley/dailyProblems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/lostParsley/dailyProblems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/lostParsley/dailyProblems/tree/master/1406-stone-game-iii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/lostParsley/dailyProblems/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/lostParsley/dailyProblems/tree/master/0486-predict-the-winner) |
+| [0747-min-cost-climbing-stairs](https://github.com/lostParsley/dailyProblems/tree/master/0747-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/lostParsley/dailyProblems/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/lostParsley/dailyProblems/tree/master/1013-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/lostParsley/dailyProblems/tree/master/1140-stone-game-ii) |
