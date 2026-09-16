@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/lostParsley/dailyProblems/tree/master/1013-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/lostParsley/dailyProblems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/lostParsley/dailyProblems/tree/master/1406-stone-game-iii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/lostParsley/dailyProblems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lostParsley/dailyProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lostParsley/dailyProblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/lostParsley/dailyProblems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/lostParsley/dailyProblems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/lostParsley/dailyProblems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/lostParsley/dailyProblems/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 ## Counting
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/lostParsley/dailyProblems/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/lostParsley/dailyProblems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/lostParsley/dailyProblems/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/lostParsley/dailyProblems/tree/master/1013-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/lostParsley/dailyProblems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/lostParsley/dailyProblems/tree/master/1406-stone-game-iii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/lostParsley/dailyProblems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Recursion
 |  |
 | ------- |
