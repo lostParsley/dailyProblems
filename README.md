@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/lostParsley/dailyProblems/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/lostParsley/dailyProblems/tree/master/0078-subsets) |
 | [0486-predict-the-winner](https://github.com/lostParsley/dailyProblems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lostParsley/dailyProblems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -258,5 +259,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/lostParsley/dailyProblems/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/lostParsley/dailyProblems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
