@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/lostParsley/dailyProblems/tree/master/0078-subsets) |
 | [0486-predict-the-winner](https://github.com/lostParsley/dailyProblems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lostParsley/dailyProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0740-delete-and-earn](https://github.com/lostParsley/dailyProblems/tree/master/0740-delete-and-earn) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/lostParsley/dailyProblems/tree/master/0078-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/lostParsley/dailyProblems/tree/master/2308-divide-array-into-equal-pairs) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/lostParsley/dailyProblems/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/lostParsley/dailyProblems/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -253,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lostParsley/dailyProblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lostParsley/dailyProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/lostParsley/dailyProblems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
