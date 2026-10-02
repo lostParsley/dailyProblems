@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/lostParsley/dailyProblems/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/lostParsley/dailyProblems/tree/master/0115-distinct-subsequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lostParsley/dailyProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lostParsley/dailyProblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/lostParsley/dailyProblems/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/lostParsley/dailyProblems/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/lostParsley/dailyProblems/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/lostParsley/dailyProblems/tree/master/0486-predict-the-winner) |
@@ -254,11 +256,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/lostParsley/dailyProblems/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lostParsley/dailyProblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lostParsley/dailyProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/lostParsley/dailyProblems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/lostParsley/dailyProblems/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/lostParsley/dailyProblems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
