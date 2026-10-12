@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/lostParsley/dailyProblems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lostParsley/dailyProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/lostParsley/dailyProblems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/lostParsley/dailyProblems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/lostParsley/dailyProblems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3312-sorted-gcd-pair-queries](https://github.com/lostParsley/dailyProblems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/lostParsley/dailyProblems/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/lostParsley/dailyProblems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/lostParsley/dailyProblems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2308-divide-array-into-equal-pairs](https://github.com/lostParsley/dailyProblems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/lostParsley/dailyProblems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3312-sorted-gcd-pair-queries](https://github.com/lostParsley/dailyProblems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3483-unique-3-digit-even-numbers](https://github.com/lostParsley/dailyProblems/tree/master/3483-unique-3-digit-even-numbers) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/lostParsley/dailyProblems/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lostParsley/dailyProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/lostParsley/dailyProblems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lostParsley/dailyProblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Monotonic Stack
 |  |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/lostParsley/dailyProblems/tree/master/0078-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/lostParsley/dailyProblems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/lostParsley/dailyProblems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/lostParsley/dailyProblems/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/lostParsley/dailyProblems/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Dynamic Programming
