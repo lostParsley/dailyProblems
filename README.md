@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/lostParsley/dailyProblems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/lostParsley/dailyProblems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/lostParsley/dailyProblems/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/lostParsley/dailyProblems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/lostParsley/dailyProblems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lostParsley/dailyProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/lostParsley/dailyProblems/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/lostParsley/dailyProblems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/lostParsley/dailyProblems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/lostParsley/dailyProblems/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/lostParsley/dailyProblems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/lostParsley/dailyProblems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lostParsley/dailyProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/lostParsley/dailyProblems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/lostParsley/dailyProblems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3483-unique-3-digit-even-numbers](https://github.com/lostParsley/dailyProblems/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/lostParsley/dailyProblems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/lostParsley/dailyProblems/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
