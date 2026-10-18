@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/lostParsley/dailyProblems/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/lostParsley/dailyProblems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/lostParsley/dailyProblems/tree/master/1406-stone-game-iii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lostParsley/dailyProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/lostParsley/dailyProblems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lostParsley/dailyProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lostParsley/dailyProblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/lostParsley/dailyProblems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/lostParsley/dailyProblems/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/lostParsley/dailyProblems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lostParsley/dailyProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/lostParsley/dailyProblems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lostParsley/dailyProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/lostParsley/dailyProblems/tree/master/2308-divide-array-into-equal-pairs) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lostParsley/dailyProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/lostParsley/dailyProblems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/lostParsley/dailyProblems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/lostParsley/dailyProblems/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/lostParsley/dailyProblems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/lostParsley/dailyProblems/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/lostParsley/dailyProblems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lostParsley/dailyProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/lostParsley/dailyProblems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Recursion
 |  |
@@ -258,9 +262,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/lostParsley/dailyProblems/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/lostParsley/dailyProblems/tree/master/1013-fibonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lostParsley/dailyProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lostParsley/dailyProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/lostParsley/dailyProblems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Geometry
 |  |
@@ -282,4 +288,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/lostParsley/dailyProblems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lostParsley/dailyProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lostParsley/dailyProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lostParsley/dailyProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lostParsley/dailyProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lostParsley/dailyProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
