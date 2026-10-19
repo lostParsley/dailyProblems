@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/lostParsley/dailyProblems/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/lostParsley/dailyProblems/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/lostParsley/dailyProblems/tree/master/0078-subsets) |
 | [0486-predict-the-winner](https://github.com/lostParsley/dailyProblems/tree/master/0486-predict-the-winner) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/lostParsley/dailyProblems/tree/master/0001-two-sum) |
 | [0740-delete-and-earn](https://github.com/lostParsley/dailyProblems/tree/master/0740-delete-and-earn) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/lostParsley/dailyProblems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/lostParsley/dailyProblems/tree/master/1741-sort-array-by-increasing-frequency) |
